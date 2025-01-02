@@ -70,3 +70,6 @@ Aqui está um caso prático de processamento de Big Data utilizando ferramentas 
      - Tendências de sentimento ao longo do tempo.
      - Mapas de calor baseados em localização.
      - Distribuições de sentimentos por hashtags ou tópicos.
+
+### Exemplo de Código (Processamento com Apache Flink)
+)
