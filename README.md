@@ -76,3 +76,12 @@ Aqui está um caso prático de processamento de Big Data utilizando ferramentas 
 <img src="https://github.com/JosiTubaroski/Big_Data_open-source/blob/main/img/01_Kafka_Flink.png">
 
 <img src="https://github.com/JosiTubaroski/Big_Data_open-source/blob/main/img/02_Kafka_Flink.png">
+
+### Benefícios do Uso de Ferramentas Open-Source
+
+1. Custo-Efetividade: Todas as ferramentas são gratuitas e altamente escaláveis.
+2. Escalabilidade: Suporte para grandes volumes de dados, comum em Big Data.
+3. Flexibilidade: Ferramentas como Flink e Spark podem ser ajustadas para diferentes casos de uso.
+4. Comunidade Ativa: Recursos como documentação, fóruns e exemplos prontos.
+
+
