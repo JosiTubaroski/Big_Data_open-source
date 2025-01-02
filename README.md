@@ -72,4 +72,7 @@ Aqui está um caso prático de processamento de Big Data utilizando ferramentas 
      - Distribuições de sentimentos por hashtags ou tópicos.
 
 ### Exemplo de Código (Processamento com Apache Flink)
-)
+
+<img src="https://github.com/JosiTubaroski/Big_Data_open-source/blob/main/img/01_Kafka_Flink.png">
+
+<img src="https://github.com/JosiTubaroski/Big_Data_open-source/blob/main/img/02_Kafka_Flink.png">
