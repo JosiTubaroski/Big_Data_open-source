@@ -63,3 +63,10 @@ Aqui está um caso prático de processamento de Big Data utilizando ferramentas 
      - Realize análises agregadas, como:
        - Sentimentos médios por localização.
        - Palavras mais frequentemente associadas a sentimentos negativos.
+
+5. Visualização com Grafana
+   - Conecte o Grafana ao Cassandra ou ao Spark Structured Streaming.
+   - Crie dashboards para monitorar:
+     - Tendências de sentimento ao longo do tempo.
+     - Mapas de calor baseados em localização.
+     - Distribuições de sentimentos por hashtags ou tópicos.
